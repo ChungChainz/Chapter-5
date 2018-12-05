@@ -51,9 +51,9 @@ namespace HomeSales
                     WriteLine("Error");
                 }
             } while (initial != "z" && initial != "Z");
-            WriteLine("The amount of sales for salesperson 'd' was {0}.", sumD);
-            WriteLine("The amount of sales for salesperson 'e' was {0}.", sumE);
-            WriteLine("The amount of sales for salesperson 'f' was {0}.", sumF);
+            WriteLine("The amount of sales for Danielle was {0}.", sumD);
+            WriteLine("The amount of sales for Edward was {0}.", sumE);
+            WriteLine("The amount of sales for Francis was {0}.", sumF);
         }
     }
 }
